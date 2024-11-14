@@ -1,1 +1,3 @@
-references.md file for conflict
+# References
+
+* octocat 1 😈
